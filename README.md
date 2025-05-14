@@ -33,9 +33,3 @@ Třetí deska umožňuje manuální ovládání robota přes mobilní telefon. J
 Čtvrtý plošný spoj je nejkomplexnější a je osazen mikrokontrolérem Atmega328P, který zajišťuje pokročilou autonomní funkci robota. Tato deska je napojena na infračervené senzory plamene, pomocí kterých robot dokáže vyhledávat zdroj ohně. Po jeho nalezení se natočí směrem k plameni a následně aktivuje ventilátor, který se pokusí plamen uhasit.
 
 Současně je tento mikrokontrolér propojen s ultrazvukovým senzorem, který umožňuje vyhýbání se překážkám. Robot tedy dokáže autonomně detekovat objekty v cestě a upravit svůj směr, aby nedošlo ke kolizi.
-
-⸻
-
-Závěr
-
-Tento pásový robot kombinuje manuální i autonomní režimy řízení, včetně sledování čáry, detekce překážek, rozpoznání plamene, a osvětlení na základě okolních podmínek. Díky modulární konstrukci s více PCB deskami a různým řídicím systémům představuje komplexní projekt vhodný pro demonstrační i soutěžní účely v oblasti robotiky a automatizace.
